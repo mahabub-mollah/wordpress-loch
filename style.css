@@ -1,0 +1,43 @@
+/*
+
+
+
+Theme Name: loch theme
+Theme URI: https://wordpress.org
+Author: Mahabub Hossain
+Version: 1.1
+
+
+
+*/
+.header nav ul li.menu-item-has-children a {
+	
+}
+.sb_content02{
+	color: #fff;
+    text-align: center;
+    padding: 0 15px;
+}
+.loch_btn{
+	list-style: none;
+}
+li a{
+	display: inline-block;
+    text-decoration: none;
+    color: #fff;
+}
+ .event_page .event-cont p {
+	margin: 0;
+	font-family: "Open Sans", sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 31px;
+	letter-spacing: 0.6px;
+	color: #404040;
+}
+
+
+.widget {
+	
+	list-style: none;
+}
